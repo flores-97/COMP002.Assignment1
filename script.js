@@ -1,0 +1,1 @@
+console.log("This message is the second way to display JS. It is sourced from an external file and linked into HTML.")
