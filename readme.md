@@ -1,2 +1,2 @@
 Author: Victor Flores
-Purpose: Displaying three ways to implement JS. 
+Purpose: Displaying three ways to implement JS.
